@@ -1,0 +1,2 @@
+# SummarifyAI
+Smart PDF Summarizer
